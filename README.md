@@ -9,6 +9,40 @@ opte por usar los mimos que el carbon y algunos añadidos por mi creados en phot
 
 GRACIAS AL CREADOR DEL THEME CARBON POR COMPARTIR ;-) !
 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+INFO THEME CaPCoM para Batocera: 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+##################################################################################################################
+
+- LOGOS: Todos los sistema por defecto incluidos en el Carbon de batocera y algunas colecciones personalizadas.
+
+- Vista transparente unica para los sistemas.
+
+- SISTEMAS FONDOS: 23 Video de sistemas por defecto ,opcion para cambiar por mini consolas y mini random video..
+
+- Estilos de vista en listas de juegos: basico, detalle, cuadricula, carrusel, vinetas, cajas, DOCK-PI3 customview ...
+
+- Imagenes por defecto en listas de juegos: imagen y marquee o logo.
+
+- Video por defecto en modo detalle y en todos los demas modos activando la previewbar, excluido el basico por defecto...
+
+- Juego de colores incluidos: Amarillo sacado del Carbon, atardecer, espana, cuarentena, marron, hielo, mason, rosachicle, verdelimon,
+
+- Shaders: CRT y Scanlines
+
+- 3 Packs de iconos diferentes a seleccionar... defecto, iconos-onfire, iconos-w8-metro.
+
+- 3 Fondos y pantalla de bienvenida "splash" creados por mi en photoshop.
+
+
+--------------------------------------------------------------------------
+
+
+
 ALGUNAS CAPTURAS THEME CaPCoM para Batocera:
 
 
