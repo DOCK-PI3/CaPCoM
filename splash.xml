@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+## ORIGINAL THEME ##
+Theme: Carbon
+##########################
+## EDITADO POR DOCK-PI3 ##
+##########################
+Theme: CAPCOM FOR BATOCERA
+version: 1.5
+author: Mabe (mabedeep), (DOCK-PI3)
+license: creative commons CC-BY-NC-SA
+originally based on: "Carbon" by Eric Hettervik (Rookervik)
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+  <view name="splash">
+
+    <splash name="splash">
+      <backgroundColor>202020FF</backgroundColor>
+    </splash>
+   
+    <image name="progressbar">
+      <color>DFBF60DF</color>
+	  <pos>0.27 0.768</pos>
+	  <origin>0 0</origin>
+    </image>
+    
+    <image name="progressbar:active">
+      <color>4080BF</color>
+    </image>
+   
+    <image name="background">
+      <size>1 1</size>
+	  <pos>0 0</pos>
+      <origin>0 0</origin>
+	  <path>./_arte/Splash.png</path>
+    </image>
+
+    <text name="label">
+      <fontPath>./_arte/joystix monospace.ttf</fontPath>
+      <color>DFFF60</color>
+	  <pos>0.02 0.688</pos>
+	  <origin>0 0</origin>
+      <forceUppercase>true</forceUppercase>
+    </text>
+
+  </view>
+</theme>

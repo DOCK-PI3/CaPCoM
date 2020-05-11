@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+ <view name="menu">
+    <menuIcons name="menuicons">
+      <iconKodi>./_arte/icons/Kodi.png</iconKodi>
+      <iconSystem>./_arte/icons/System.png</iconSystem>
+      <iconUpdates>./_arte/icons/Updates.png</iconUpdates>
+      <iconGames>./_arte/icons/Games.png</iconGames>
+      <iconControllers>./_arte/icons/Controllers.png</iconControllers>
+      <iconUI>./_arte/icons/UI.png</iconUI>
+      <iconSound>./_arte/icons/Sound.png</iconSound>
+      <iconNetwork>./_arte/icons/Network.png</iconNetwork>
+      <iconScraper>./_arte/icons/Scraper.png</iconScraper>
+      <iconAdvanced>./_arte/icons/Advanced.png</iconAdvanced>
+      <iconQuit>./_arte/icons/Quit.png</iconQuit>
+      <iconRestart>./_arte/icons/Restart.png</iconRestart>
+      <iconShutdown>./_arte/icons/Shutdown.png</iconShutdown>
+      <iconFastShutdown>./_arte/icons/Fastshutdown.png</iconFastShutdown>
+      <iconRetroachievements>./_arte/icons/Contest.png</iconRetroachievements>
+	</menuIcons>
+  </view>
+  
+  <view name="menu, system, basic, detailed, grid">
+	<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./_arte/iconsets/xbox/updown.png</iconUpDown>
+			<iconLeftRight>./_arte/iconsets/xbox/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./_arte/iconsets/xbox/all.png</iconUpDownLeftRight>
+			<iconA>./_arte/iconsets/xbox/a.png</iconA>
+			<iconB>./_arte/iconsets/xbox/b.png</iconB>
+			<iconX>./_arte/iconsets/xbox/x.png</iconX>
+			<iconY>./_arte/iconsets/xbox/y.png</iconY>
+			<iconL>./_arte/iconsets/xbox/l.png</iconL>
+			<iconR>./_arte/iconsets/xbox/r.png</iconR>
+			<iconStart>./_arte/iconsets/xbox/start.png</iconStart>
+			<iconSelect>./_arte/iconsets/xbox/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

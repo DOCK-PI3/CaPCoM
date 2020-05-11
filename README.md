@@ -1,2 +1,2 @@
 # CaPCoM
- CaPCoM theme portado de EmulOS para Batocera 5.25 y superiores....
+ES theme.... Portado para Batocera 5.25 y superiores !
