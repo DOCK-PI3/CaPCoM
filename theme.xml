@@ -215,7 +215,7 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
     <menuBackground name="menubg">
       <color>${menucolorfondo}</color>
       <cornerSize>45 45</cornerSize>
-      <path>./_arte/frame.png</path>
+      <path>./_arte/MENU-START-BACKGROUND.png</path>
     </menuBackground>
     <menuTextEdit name="menutextedit">
       <inactive>./_arte/textinput_ninepatch.png</inactive>
