@@ -18,7 +18,7 @@ INFO THEME CaPCoM para Batocera:
 
 ##################################################################################################################
 
-- LOGOS: Todos los sistema por defecto incluidos en el Carbon de batocera y algunas colecciones personalizadas.
+- LOGOS: Todos los sistema por defecto incluidos en el Carbon de batocera, otros creados por mi y algunas colecciones personalizadas.
 
 - Vista transparente unica para los sistemas.
 
