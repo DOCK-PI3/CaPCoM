@@ -7,7 +7,7 @@
       <path>./../consoles/${system.theme}.png</path>
       <linearSmooth>true</linearSmooth>
       <pos>0.89 0.255</pos>      
-	  <size>0.158 0</size>
+	  <maxSize>0.15 0.2</maxSize>
       <color>FFFFFFF0</color>
       <zIndex>21</zIndex>
     </image>
