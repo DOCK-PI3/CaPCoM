@@ -30,6 +30,7 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
     <glowColor>Ab000020</glowColor>
 	<menucolorseparador>828a87</menucolorseparador>
 	<menucolortitulo>FAFAFA</menucolortitulo>
+	<menuBackground>./_arte/menu_bg/MENU-START-BACKGROUND.png</menuBackground>
 	<!-- <centerFadeColor>8b000050</centerFadeColor> -->
     <backgroundColor>252525</backgroundColor>
     <bottomBarColor>8b0000c0</bottomBarColor>
@@ -195,7 +196,7 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
     <menuText name="menufooter">
       <fontPath>./_arte/joystix monospace.ttf</fontPath>
       <fontSize>0.022</fontSize>
-      <color>777777FF</color>
+	  <color>${menucolortitulo}</color>
     </menuText>
     <menuText name="menutext">
       <fontPath>./_arte/zeldadxt.ttf</fontPath>
@@ -215,7 +216,7 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
     <menuBackground name="menubg">
       <color>${menucolorfondo}</color>
       <cornerSize>45 45</cornerSize>
-      <path>./_arte/MENU-START-BACKGROUND.png</path>
+      <path>${menuBackground}</path>
     </menuBackground>
     <menuTextEdit name="menutextedit">
       <inactive>./_arte/textinput_ninepatch.png</inactive>

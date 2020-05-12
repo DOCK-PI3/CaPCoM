@@ -2,6 +2,7 @@
 <theme>
   <formatVersion>7</formatVersion>
   <variables>
+    <menuBackground>./_arte/menu_bg/MENU-START-BACKGROUND_7_border.png</menuBackground>
     <baseColor>ffc2e5</baseColor>
 	<colorHora>ed6498</colorHora>
 	<primaryColorMenu>ee70a6</primaryColorMenu>
@@ -10,7 +11,7 @@
 	<ColordelSelectorMenu>4d5255</ColordelSelectorMenu>
 	<pauseColorIconos>d0006f</pauseColorIconos>
     <pauseColorTexto>f7c8c9</pauseColorTexto>
-	<menucolorfondo>e8e9d7</menucolorfondo>
+	<!-- <menucolorfondo>e8e9d7</menucolorfondo> -->
 	<menucolortexto>ed6498</menucolortexto>
     <gradientEndColor>f0537a</gradientEndColor>
     <centerFadeColor>e990abff</centerFadeColor>
@@ -18,5 +19,8 @@
 	<glowColor>15717118</glowColor>
     <systemInfoColor>3b83bd</systemInfoColor>
     <backgroundColor>f4979c</backgroundColor>
+	<menucolortextoselecionado>ffffff</menucolortextoselecionado>
+	<menucolorseparador>fffacd</menucolorseparador>
+	<menucolortitulo>fafbfd</menucolortitulo>
   </variables>
 </theme>

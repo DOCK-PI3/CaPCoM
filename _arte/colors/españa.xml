@@ -3,9 +3,10 @@
   <formatVersion>7</formatVersion>
   <variables>
     <baseColor>e3342b</baseColor>
-	<menucolorfondo>ce181e</menucolorfondo>
+	<menucolorfondo>FF4040DF</menucolorfondo>
 	<menucolortexto>fbbc05</menucolortexto>
-    <gradientEndColor>ffc20e</gradientEndColor>
+    <menucolortextoselecionado>ffffff</menucolortextoselecionado>
+	<gradientEndColor>ffc20e</gradientEndColor>
     <centerFadeColor>ffc20e0f</centerFadeColor>
     <bottomBarColor>e3342b</bottomBarColor>
 	<glowColor>15717118</glowColor>

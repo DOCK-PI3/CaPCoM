@@ -2,15 +2,19 @@
 <theme>
   <formatVersion>7</formatVersion>
   <variables>
+    <menuBackground>./_arte/menu_bg/MENU-START-BACKGROUND_3.png</menuBackground>
     <baseColor>b06010</baseColor>
-	<menucolorfondo>4c261f</menucolorfondo>
-	<menucolortexto>c38974</menucolortexto>
+	<menucolortexto>000000</menucolortexto>
+	<menucolortextoselecionado>ffffff</menucolortextoselecionado>
+	<menucolorseparador>fffacd</menucolorseparador>
+	<menucolortitulo>000000</menucolortitulo>
+	<!-- <menucolorfondo>4c261f</menucolorfondo> -->
 	<primaryColorMenu>34c950</primaryColorMenu>
 	<secundaryColorMenu>f8971d</secundaryColorMenu>
-	<ColorSeleccionMenu>000000</ColorSeleccionMenu>
+	<ColorSeleccionMenu>ffffff</ColorSeleccionMenu>
 	<ColordelSelectorMenu>dde2e0</ColordelSelectorMenu>
     <gradientEndColor>865200</gradientEndColor>
-    <centerFadeColor>663300</centerFadeColor>
+    <centerFadeColor>663300df</centerFadeColor>
     <bottomBarColor>663100</bottomBarColor>
 	<glowColor>15717118</glowColor>
     <systemInfoColor>954010</systemInfoColor>
