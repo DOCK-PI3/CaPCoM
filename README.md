@@ -5,9 +5,11 @@ Etiquetas usadas del carbon en batocera 5.26 para mayor compativilidad. Los logo
 
 porque aun teniendo la misma resolucion hay 3; favoritos,4players y 2players que se ven estirados, por esa razon 
 
-opte por usar los mimos que el carbon y algunos añadidos por mi creados en photoshop como los fondos de la interfaz y demas..
+opte por usar los mimos que el carbon y algunos anadidos por mi, creados en photoshop como los fondos de la interfaz y demas..
 
 GRACIAS AL CREADOR DEL THEME CARBON POR COMPARTIR ;-) !
+
+- TAGs ETIQUETAS BASE VISTAS EN: https://github.com/batocera-linux/batocera-emulationstation/blob/master/THEMES.md
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
