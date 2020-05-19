@@ -36,7 +36,11 @@
       <reflexion>0.12 0.0</reflexion>
       <reflexionOnFrame>true</reflexionOnFrame>
     </image>
-	
+    <text name="md_name">
+      <fontPath>./../_arte/Halo3.ttf</fontPath>
+      <color>${baseColor}</color>
+      <forceUppercase>true</forceUppercase>
+    </text>	
 	<image name="background" extra="static">
       <tile>false</tile>
       <path>${backgroundImage_A}</path>      
