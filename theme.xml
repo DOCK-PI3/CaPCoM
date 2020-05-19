@@ -640,6 +640,123 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
       <animateColorTime>0</animateColorTime>
     </ninepatch>    
   </customView>
+
+<customView name="DockCoins" inherits="grid" tinyScreen="false">
+	<image name="background">
+      <tile>false</tile>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <zIndex>7</zIndex>
+	  <path>./_arte/FONDO_CAPCOM_2020_Customview_DockCoins.png</path>
+    </image>
+<!-- 	<text name="md_name" extra="true">
+      <color>ffffff</color>
+      <pos>0.0161 0.325</pos>
+      <size>0.38 0.14</size>
+      <alignment>left</alignment>
+      <glowColor>00000016</glowColor>
+      <glowSize>4</glowSize>
+      <fontSize>0.08</fontSize>
+      <fontPath>./_arte/Cabin-Bold.ttf</fontPath>
+    </text>	 -->
+	<rating name="md_rating">
+      <pos>0.012 0.152</pos>
+      <size>0.06 0.04</size>
+      <color>FFFF00</color>
+      <unfilledColor>808080</unfilledColor>
+	  <filledPath>./_arte/star_filled.png</filledPath>
+	  <unfilledPath>./_arte/star_unfilled.png</unfilledPath>
+    </rating>
+    <text name="md_lbl_players">
+      <pos>2 2</pos>
+      <size>0.07 0</size>
+	  <color>EFEFFF</color>
+	  <fontSize>0.051</fontSize>
+    </text>
+    <text name="md_players">
+      <color>EFEFFF</color>
+      <pos>2 2</pos>
+      <size>0.04 0</size>
+	  <fontSize>0.051</fontSize>
+    </text>
+    <text name="md_lbl_releasedate">
+      <color>969696</color>
+      <pos>2 2</pos>
+      <size>0.2 0</size>
+    </text>
+    <datetime name="md_releasedate">
+    <color>EFEFFF</color>
+      <pos>2 2</pos>
+      <size>0 0.033</size>
+    </datetime>
+    <text name="md_description">
+      <pos>2 2</pos>
+      <size>0.385 0.32</size>    
+      <color>ffffff</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>./_arte/Cabin-Bold.ttf</fontPath>
+      <fontSize>0.031</fontSize>
+    </text>	
+	<video name="md_video">
+      <pos>0 0</pos>
+	  <size>1 1</size>
+	  <default>./_arte/sistemasvideos/default.mp4</default> 
+      <!-- <maxSize>0.412 0.436</maxSize> -->
+      <origin>0 0</origin>
+      <delay>1.5</delay>
+      <showSnapshotNoVideo>false</showSnapshotNoVideo>
+      <showSnapshotDelay>false</showSnapshotDelay>
+      <loops>1</loops>
+	  <zIndex>99</zIndex>
+    </video>	
+	<image name="md_image" extra="true">
+      <default>./_arte/img_default.png</default> 
+	  <pos>-0.32 0.11</pos>
+      <origin>0 0</origin>
+      <size>1 1.3</size>
+	  <maxSize>1 1.3</maxSize>
+	  <zIndex>5</zIndex>
+    </image>	
+    <imagegrid name="gamegrid">
+      <pos>0.225 0.26</pos>
+      <!-- <size>0.78 0.175</size> -->
+      <padding>0.03 0.04 0.03 0.1</padding>
+	  <zIndex>10</zIndex>
+      <scrollDirection>horizontal</scrollDirection>
+	  <autoLayout>3 1</autoLayout>
+      <autoLayoutSelectedZoom>1.3</autoLayoutSelectedZoom>
+      <animateSelection>false</animateSelection>
+      <centerSelection>true</centerSelection>
+    </imagegrid>
+    <gridtile name="default">
+      <padding>64 16</padding>
+      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+	  <maxSize>0.37 0.45</maxSize>
+      <imageColor>FFFFFFAA</imageColor>
+      <reflexion>0 0</reflexion>
+    </gridtile>
+    <gridtile name="selected">
+      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+      <padding>64 16</padding>
+    </gridtile>
+    <text name="gridtile">
+      <visible>false</visible>
+      <color>80808080</color>
+      <fontSize>0.016</fontSize>
+      <size>0.5 0</size>
+    </text>
+    <text name="gridtile:selected">
+      <color>FFFFFF00</color>
+      <fontSize>0.035</fontSize>
+      <size>0.6 0</size>
+    </text>
+    <ninepatch name="gridtile.background:selected">
+      <animateColorTime>0</animateColorTime>
+    </ninepatch>    
+  </customView>
   
   <customView name="Carousel" inherits="grid" tinyScreen="false" displayName="${carouselViewName}">
     <text name="md_name">
