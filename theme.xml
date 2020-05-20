@@ -67,6 +67,7 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
 	<include name="yellow" displayName="${yellow}">./_arte/colors/yellow.xml</include>
 	<include subset="colorset" name="atardecer" displayName="${atardecer}">./_arte/colors/atardecer.xml</include>
 	<include subset="colorset" name="cuarentena" displayName="${cuarentena}">./_arte/colors/cuarentena.xml</include>
+	<include subset="colorset" name="dark" displayName="${dark}">./_arte/colors/dark.xml</include>
 	<include subset="colorset" name="españa" displayName="${españa}">./_arte/colors/españa.xml</include>
 	<include subset="colorset" name="marron" displayName="${marron}">./_arte/colors/marron.xml</include>
 	<include subset="colorset" name="mason" displayName="${mason}">./_arte/colors/mason.xml</include>
@@ -155,7 +156,7 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
 	  <color>${colorHora}</color>
       <fontSize>0.025</fontSize>
 	  <fontPath>./_arte/Halo3.ttf</fontPath>
-      <pos>0.888 0.957</pos>
+      <pos>0.892 0.952</pos>
       <size>0.069 0.034</size>
       <alignment>right</alignment>
       <verticalAlignment>center</verticalAlignment>
@@ -772,6 +773,11 @@ Original theme:	https://github.com/DOCK-PI3/es-theme-CaPCoM
 	  <size>0.22 0.115</size>
       <maxSize>0.23 0.12</maxSize>
     </image>
+	<helpsystem name="help">
+	  <pos>0.032 0.957</pos>
+      <textColor>${pauseColorTexto}</textColor>
+      <iconColor>${pauseColorIconos}</iconColor>
+    </helpsystem>
 <!-- 	<text name="md_name" extra="true">
       <color>ffffff</color>
       <pos>0.0161 0.325</pos>

@@ -57,8 +57,8 @@
       <zIndex>12</zIndex>
     </image> -->
     <text name="systemInfo">
-      <pos>0.025 0.72</pos>
-      <size>1 0.25</size>
+      <pos>0.295 0.718</pos>
+      <size>0.45 0.25</size>
       <backgroundColor>0000FF00</backgroundColor>
       <color>${systemInfoColor}</color>
       <glowColor>${glowColor}</glowColor>
